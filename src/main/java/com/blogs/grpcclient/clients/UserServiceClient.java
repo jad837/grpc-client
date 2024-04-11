@@ -4,7 +4,6 @@ import com.blogs.user.GetUserRequest;
 import com.blogs.user.User;
 import com.blogs.user.UserServiceGrpc;
 import io.grpc.ManagedChannel;
-import net.devh.boot.grpc.client.inject.GrpcClient;
 import org.springframework.stereotype.Component;
 
 @Component
